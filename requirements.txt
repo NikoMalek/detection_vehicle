@@ -1,0 +1,6 @@
+opencv-python
+supervision
+ultralytics
+inference
+inference-gpu
+pytube
